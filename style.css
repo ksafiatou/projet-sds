@@ -1,0 +1,126 @@
+.logo {
+    
+    left: 0;
+    
+     background-color: darkcyan !important;
+}
+
+.header {
+    width: 100vw;
+   
+    height: 100px;
+}
+.titre{
+    text-align: center;
+    font-size: xx-large;
+    font-weight: 700;
+
+}
+.espace{
+    border: 1px solid black;
+   
+}
+.bar{
+    margin-bottom: 60px;
+}
+
+.marche{
+    margin-left: 200px !important;
+    
+}
+.bouton{
+    margin-top: 50px;
+}
+.titre1{
+    text-align: center;
+    font-size: xx-large;
+    font-weight: 500;
+    
+    
+}
+.titre2{
+    text-align: center;
+    font-size: xx-large;
+    font-weight: 500;
+   background-color:darkgrey ;
+   width: 300px;
+
+    
+}
+.demand{
+    background-color: darkgrey;
+    font-size: 42px;
+    font-weight: bold;
+}
+
+* {box-sizing: border-box}
+
+/* Add padding to containers */
+.container {
+  padding: 16px;
+}
+
+/* Full-width input fields */
+input[type=text], input[type=password] {
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1;
+}
+
+input[type=text]:focus, input[type=password]:focus {
+  background-color: #ddd;
+  outline: none;
+}
+
+/* Overwrite default styles of hr */
+hr {
+  border: 1px solid #f1f1f1;
+  margin-bottom: 25px;
+}
+
+/* Set a style for the submit/register button */
+.registerbtn {
+  background-color:darkgrey;
+  color: white;
+  padding: 16px 20px;
+  margin: 8px 0;
+  border: none;
+  width: 20%;
+  opacity: 0.9;
+}
+
+.registerbtn:hover {
+  opacity:1;
+}
+
+/* Add a blue text color to links */
+a {
+  color: dodgerblue;
+}
+
+.espa{
+    width: 500px !important;
+}
+.ins0{
+    background-color: darkcyan;
+width: 600px!important;
+
+}
+.ins{
+    background-image: url(./sante_shutterstock.jpg);
+width: 600px!important;
+
+}
+.ins1{
+    background-image: url(./62179729-illustration-vectorielle-coeur-cardio-infirmière-téléphone-intelligent-graphique.webp);
+width: 600px!important;
+
+}
+.ins6{
+    background-color: darkcyan;
+width:600px!important;
+
+}
